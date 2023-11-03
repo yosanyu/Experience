@@ -28,7 +28,7 @@
 1.Server功能  
 2.API串接  
 3.Python製作TCP Server以轉發各個伺服器的資訊  
-4.WebSocket與後端連練
+4.WebSocket與後端連練  
 5.簡易本地HTML Server  
 6.DLL檔案  
 7.UI  
