@@ -14,6 +14,8 @@
 2.Maria(稍微接觸)  
 ## 遊戲引擎
 1.Unreal Engine 4/5  
+## 語言能力
+1.日語 JLPT N3
 ## 版本控制
 1.Git(稍微接觸)  
 2.SVN
@@ -28,7 +30,7 @@
 1.Server功能  
 2.API串接  
 3.Python製作TCP Server以轉發各個伺服器的資訊  
-4.WebSocket與後端連線  
+4.WebSocket與後端連練
 5.簡易本地HTML Server  
 6.DLL檔案  
 7.UI  
