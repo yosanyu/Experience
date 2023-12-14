@@ -32,7 +32,7 @@
 2.API串接  
 3.Python製作TCP Server以轉發各個伺服器的資訊  
 4.WebSocket與後端連練
-5.簡易本地HTML Server  
+5.簡易本地HTTP Server  
 6.DLL檔案  
 7.UI  
 8.互動物件  
