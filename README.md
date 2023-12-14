@@ -21,12 +21,13 @@
 2.SVN
 # 專案經歷
 ## 主要負責Server的功能，配合後端工程師進行API串接，同時也參與部分UI或客戶端其他內容的製作。
-## 醫療教育訓練VR專案
+## 醫療教育訓練VR專案 - [妙手VR](https://goodhandvr.com/)
+相關新聞 [南瓜虛擬科技發表妙手VR醫療教學系統| 熱門亮點 - 經濟日報](https://money.udn.com/money/story/5635/7062707)
 1.Server功能  
 2.API串接  
 3.文件下載與讀取  
 4.UI
-## VR遊戲一
+## VR遊戲一 - [Quantaar](https://www.meta.com/zh-tw/experiences/3984654618326751/)
 1.Server功能  
 2.API串接  
 3.Python製作TCP Server以轉發各個伺服器的資訊  
